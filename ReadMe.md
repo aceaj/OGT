@@ -10,7 +10,7 @@ ReadMe
 
         Clone the project
 
-        git clone https://git.com/aceaj12/OGT
+        git clone https://git.com/aceaj12/OGT.git
 
 
     ## Project Files
